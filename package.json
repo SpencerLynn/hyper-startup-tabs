@@ -1,0 +1,20 @@
+{
+  "name": "hyper-startup-tabs",
+  "version": "1.0",
+  "description": "When Hyper terminal is launched, open a set of tabs to given folder locations.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpencerLynn/hyper-startup-tabs.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "plugin",
+    "start",
+    "startup",
+    "tabs"
+  ],
+  "author": "Spencer Lynn <spencer@spencerlynn.com>",
+  "license": "MIT"
+}

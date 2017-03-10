@@ -1,6 +1,6 @@
 # hyper-startup-tabs
 
-Specify a set of directories to be opened in separate tabs when hyper terminal is launched.
+A plugin for hyper.app terminal. Specify a set of directories to be opened in separate tabs when hyper terminal is launched.
 
 ## Install
 
